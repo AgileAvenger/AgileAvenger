@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&color=%237E3ACE&size=24&width=500&duration=3000&lines=Project+Manager+Professional;Tech-savvy;and;Product+enthusiast+🌟 )](https://git.io/typing-svg)
 
 ### About me :woman:
-Science grad turned project master: blending brains with heart
+Science grad turned project master: blending 🧠 with :heart:
 
-With a keen interest in the product realm and an agile mindset, I thrive on marrying technology with impactful solutions
+With a keen interest in the product realm and an agile mindset, I thrive on marrying technology with impactful solutions.
 
-A communicator and people person, naturally inquisitive, proactive problem solver, and innovator motivated by challenges
+A communicator and people person, naturally inquisitive, proactive problem solver, and innovator motivated by challenges.
 
 Let's connect and innovate together! 
 
