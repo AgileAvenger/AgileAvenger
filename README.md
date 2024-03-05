@@ -12,3 +12,5 @@ A communicator and people person, naturally inquisitive, proactive problem solve
 Let's connect and innovate together! 
 
 <a href="https://www.linkedin.com/in/neto-daniela/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+
+[![Credly - Badges](https://img.shields.io/badge/Credly-Badges-orange)](https://www.credly.com/users/df-neto/badges)
