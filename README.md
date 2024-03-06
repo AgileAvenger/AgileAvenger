@@ -18,5 +18,6 @@ Let's connect and innovate together!
 
 ### Currently learning 🎒
 
-[Intro to Cloud & Deployment](https://codefirstgirls.com/)
+[Intro to Cloud & Deployment](https://codefirstgirls.com/) by **Code first Girls**
 
+[Intro to Cybersecurity](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US) by **Cisco Networking Academy**
