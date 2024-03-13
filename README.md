@@ -18,9 +18,8 @@ Let's connect and innovate together!
 
 ### Currently learning 🎒
 
-[Intro to Cloud & Deployment](https://codefirstgirls.com/) by **Code first Girls**
+[Intro to Cloud & Deployment](https://codefirstgirls.com/) by **Code first Girls** and **IBM**
 
 [Intro to Cybersecurity](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US) by **Cisco Networking Academy**
-
 
 [Data Landscape of GenAI for Project Managers](https://www.pmi.org/shop/p-/elearning/data-landscape-of-genai-for-project-managers/el106) by **PMI**
